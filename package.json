@@ -1,0 +1,16 @@
+{
+    "name": "documents-reader",
+    "version": "1.0.0",
+    "description": "pdf reader",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Avikal Shukla",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.14",
+        "pdf-parse": "^1.1.1"
+    }
+}
